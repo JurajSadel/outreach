@@ -24,7 +24,7 @@ Rust's focus on memory safety and thread safety aligns with goal of producing re
 - Performance: Rust is designed for high performance and can go toe-to-toe with C and C++ in performance measures while still providing strong memory safety guarantees and concurrency support.
 - Readability: Rust's syntax is designed to be more readable and less error-prone than C and C++, with features like pattern matching, type inference, and functional programming constructs. This can make it easier to write and maintain code, especially for larger and more complex projects.
 - Growing ecosystem: Rust has a growing ecosystem of libraries (crates), tools and resources for (not only) embedded development, which can make it easier to get started with Rust and find necessary support and resources for a particular project.
-
+- Package manager and build system Cargo: Cargo is an official tool that is included in the Rust programming language distribution and is used to automate the build, test and publish process together with creating a new project and managing project dependencies.
 ### Disadvantages of Rust (compared with C and C++)
 
 On the other hand, Rust is not perfect language and has also some disadvantages over other programming languages (not only C and C++).
