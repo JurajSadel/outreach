@@ -175,4 +175,4 @@ fn main() -> ! {
 If you are starting a new project or a task where memory safety or concurrency is required, it may be worth considering moving from C to Rust. However, if your project is already well-established and functional in C, the benefits of switching to Rust may not outweigh the costs of rewriting and retesting your whole codebase. In this case you can consider to keep the current C codebase and start writing adn adding new features, modules and functionality in Rust - it is relatively simple to call C functions from Rust code. In the end, the final decision to move from C to Rust should be based on a careful evaluation of your specific needs and the trade-offs involved.
 
 STATS:
-Currently we have almost 1900 words
+Currently we have almost 2300 words
