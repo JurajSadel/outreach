@@ -12,6 +12,19 @@ The main motivation is to briefly show what is currently possible with Rust and 
 
 Here we should mention the most important and the biggest update we have made since the first Scott's post - that's basically everything because the post was published in September 2019
 
+TODO:
+- so many prgrammng languages, webm mobile ...
+- one paragraph in Past years new languages are appearig to mrpve proramming experience
+- second we can assume that thr reader is awre tha ew are fong to talk aut progrmamng lamgiage
+- let readrs now we are going o talk about ptogramming language
+- 20 years 20 languages were avalaible now we have 100+
+- then when rust was initialy developed
+- then rust in emvedded
+- in emvedde we sont have many options like in web etc
+- in embedded we have micropyhton, C, basic, haskell ...
+- huge differences beteen we and emvedded -> this can show to the readers that rust will complementary ehat we have today
+- C is not language for the young generation (to hoin embedded world, we can create somethme more tractive)
+- how to motivte people to join emveded world
 
 **Why Rust?**
 
